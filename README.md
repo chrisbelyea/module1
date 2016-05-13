@@ -1,5 +1,7 @@
 # module1
 
+[![Build Status](https://travis-ci.org/chrisbelyea/module1.svg?branch=master)](https://travis-ci.org/chrisbelyea/module1)
+
 #### Table of Contents
 
 1. [Description](#description)

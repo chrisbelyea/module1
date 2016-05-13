@@ -44,5 +44,4 @@
 #
 class module1 {
 
-
 }
